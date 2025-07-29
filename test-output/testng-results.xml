@@ -11,53 +11,97 @@
       <![CDATA[====campaignstatus PASSED ====]]>
     </line>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2025-07-28T08:45:37 IST" name="Default suite" finished-at="2025-07-28T08:45:51 IST" duration-ms="14041">
+=======
+  <suite started-at="2025-07-28T17:09:48 IST" name="Default suite" finished-at="2025-07-28T17:10:01 IST" duration-ms="12416">
+>>>>>>> branch 'master' of https://github.com/mvsricharan99/Advanceselenium.git
     <groups>
       <group name="Smoke">
         <method signature="AssertcamstatusbaseTest.campaignstatus()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" name="campaignstatus" class="testcases.AssertcamstatusbaseTest"/>
       </group> <!-- Smoke -->
     </groups>
+<<<<<<< HEAD
     <test started-at="2025-07-28T08:45:37 IST" name="Default test" finished-at="2025-07-28T08:45:51 IST" duration-ms="14041">
+=======
+    <test started-at="2025-07-28T17:09:48 IST" name="Default test" finished-at="2025-07-28T17:10:01 IST" duration-ms="12416">
+>>>>>>> branch 'master' of https://github.com/mvsricharan99/Advanceselenium.git
       <class name="testcases.AssertcamstatusbaseTest">
+<<<<<<< HEAD
         <test-method is-config="true" signature="beforesuite()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:37 IST" name="beforesuite" finished-at="2025-07-28T08:45:37 IST" duration-ms="17" status="PASS">
+=======
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T17:09:48 IST" name="beforesuite" finished-at="2025-07-28T17:09:48 IST" duration-ms="10" status="PASS">
+>>>>>>> branch 'master' of https://github.com/mvsricharan99/Advanceselenium.git
           <reporter-output>
             <line>
               <![CDATA[DB Connectivity open]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforesuite -->
+<<<<<<< HEAD
         <test-method is-config="true" signature="beforetest()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:37 IST" name="beforetest" finished-at="2025-07-28T08:45:37 IST" duration-ms="1" status="PASS">
+=======
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T17:09:48 IST" name="beforetest" finished-at="2025-07-28T17:09:48 IST" duration-ms="1" status="PASS">
+>>>>>>> branch 'master' of https://github.com/mvsricharan99/Advanceselenium.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforetest -->
+<<<<<<< HEAD
         <test-method is-config="true" signature="beforeclass()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:37 IST" name="beforeclass" finished-at="2025-07-28T08:45:42 IST" duration-ms="4597" status="PASS">
+=======
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T17:09:48 IST" name="beforeclass" finished-at="2025-07-28T17:09:52 IST" duration-ms="3932" status="PASS">
+>>>>>>> branch 'master' of https://github.com/mvsricharan99/Advanceselenium.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
+<<<<<<< HEAD
         <test-method is-config="true" signature="beforemethod()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:42 IST" name="beforemethod" finished-at="2025-07-28T08:45:42 IST" duration-ms="701" status="PASS">
+=======
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T17:09:52 IST" name="beforemethod" finished-at="2025-07-28T17:09:53 IST" duration-ms="367" status="PASS">
+>>>>>>> branch 'master' of https://github.com/mvsricharan99/Advanceselenium.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethod -->
+<<<<<<< HEAD
         <test-method signature="campaignstatus()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:42 IST" name="campaignstatus" finished-at="2025-07-28T08:45:49 IST" duration-ms="7143" status="PASS">
+=======
+        <test-method signature="campaignstatus()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T17:09:53 IST" name="campaignstatus" finished-at="2025-07-28T17:09:59 IST" duration-ms="6573" status="PASS">
+>>>>>>> branch 'master' of https://github.com/mvsricharan99/Advanceselenium.git
           <reporter-output>
             <line>
               <![CDATA[====campaignstatus PASSED ====]]>
             </line>
           </reporter-output>
         </test-method> <!-- campaignstatus -->
+<<<<<<< HEAD
         <test-method is-config="true" signature="aftermethod()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:50 IST" name="aftermethod" finished-at="2025-07-28T08:45:50 IST" duration-ms="783" status="PASS">
+=======
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T17:10:00 IST" name="aftermethod" finished-at="2025-07-28T17:10:00 IST" duration-ms="822" status="PASS">
+>>>>>>> branch 'master' of https://github.com/mvsricharan99/Advanceselenium.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
+<<<<<<< HEAD
         <test-method is-config="true" signature="afterclass()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:50 IST" name="afterclass" finished-at="2025-07-28T08:45:51 IST" duration-ms="556" status="PASS">
+=======
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T17:10:00 IST" name="afterclass" finished-at="2025-07-28T17:10:01 IST" duration-ms="428" status="PASS">
+>>>>>>> branch 'master' of https://github.com/mvsricharan99/Advanceselenium.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterclass -->
+<<<<<<< HEAD
         <test-method is-config="true" signature="aftertest()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:51 IST" name="aftertest" finished-at="2025-07-28T08:45:51 IST" duration-ms="0" status="PASS">
+=======
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T17:10:01 IST" name="aftertest" finished-at="2025-07-28T17:10:01 IST" duration-ms="0" status="PASS">
+>>>>>>> branch 'master' of https://github.com/mvsricharan99/Advanceselenium.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftertest -->
+<<<<<<< HEAD
         <test-method is-config="true" signature="aftersuite()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:51 IST" name="aftersuite" finished-at="2025-07-28T08:45:51 IST" duration-ms="0" status="PASS">
+=======
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T17:10:01 IST" name="aftersuite" finished-at="2025-07-28T17:10:01 IST" duration-ms="6" status="PASS">
+>>>>>>> branch 'master' of https://github.com/mvsricharan99/Advanceselenium.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftersuite -->

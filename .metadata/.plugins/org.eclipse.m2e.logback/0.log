@@ -1,0 +1,21 @@
+2025-07-28 08:33:46,148 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-07-28 08:40:04,636 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Advanceseleniumbatch:Advanceseleniumbatch:0.0.1-SNAPSHOT @ C:\Users\HP\git\Advanceselenium\pom.xml.
+2025-07-28 08:40:06,582 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-07-28 08:40:06,584 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\Advanceselenium\src\main\resources
+2025-07-28 08:40:06,591 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-07-28 08:40:06,593 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\Advanceselenium\src\test\resources
+2025-07-28 08:40:08,628 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-07-28 08:40:08,631 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\Advanceselenium\src\main\resources
+2025-07-28 08:40:08,634 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-07-28 08:40:08,635 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\Advanceselenium\src\test\resources
+2025-07-28 08:45:33,641 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating AssertcamstatusbaseTest.campaignstatus from maven configuration
+2025-07-28 16:33:58,229 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-07-28 16:37:56,735 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BasicSelenium:BasicSelenium:0.0.1-SNAPSHOT @ C:\Users\HP\git\basicselenium\pom.xml.
+2025-07-28 16:37:58,004 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-07-28 16:37:58,005 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\basicselenium\src\main\resources
+2025-07-28 16:37:58,010 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-07-28 16:37:58,012 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\basicselenium\src\test\resources
+2025-07-28 16:37:59,679 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-07-28 16:37:59,681 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\basicselenium\src\main\resources
+2025-07-28 16:37:59,684 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-07-28 16:37:59,685 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\basicselenium\src\test\resources
