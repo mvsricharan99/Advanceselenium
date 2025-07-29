@@ -11,53 +11,53 @@
       <![CDATA[====campaignstatus PASSED ====]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-07-28T07:09:54 IST" name="Default suite" finished-at="2025-07-28T07:10:08 IST" duration-ms="14758">
+  <suite started-at="2025-07-28T08:45:37 IST" name="Default suite" finished-at="2025-07-28T08:45:51 IST" duration-ms="14041">
     <groups>
       <group name="Smoke">
         <method signature="AssertcamstatusbaseTest.campaignstatus()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" name="campaignstatus" class="testcases.AssertcamstatusbaseTest"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2025-07-28T07:09:54 IST" name="Default test" finished-at="2025-07-28T07:10:08 IST" duration-ms="14758">
+    <test started-at="2025-07-28T08:45:37 IST" name="Default test" finished-at="2025-07-28T08:45:51 IST" duration-ms="14041">
       <class name="testcases.AssertcamstatusbaseTest">
-        <test-method is-config="true" signature="beforesuite()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T07:09:54 IST" name="beforesuite" finished-at="2025-07-28T07:09:54 IST" duration-ms="20" status="PASS">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:37 IST" name="beforesuite" finished-at="2025-07-28T08:45:37 IST" duration-ms="17" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[DB Connectivity open]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforesuite -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T07:09:54 IST" name="beforetest" finished-at="2025-07-28T07:09:54 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:37 IST" name="beforetest" finished-at="2025-07-28T08:45:37 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforetest -->
-        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T07:09:54 IST" name="beforeclass" finished-at="2025-07-28T07:09:58 IST" duration-ms="4634" status="PASS">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:37 IST" name="beforeclass" finished-at="2025-07-28T08:45:42 IST" duration-ms="4597" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T07:09:58 IST" name="beforemethod" finished-at="2025-07-28T07:09:59 IST" duration-ms="827" status="PASS">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:42 IST" name="beforemethod" finished-at="2025-07-28T08:45:42 IST" duration-ms="701" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethod -->
-        <test-method signature="campaignstatus()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T07:09:59 IST" name="campaignstatus" finished-at="2025-07-28T07:10:07 IST" duration-ms="7376" status="PASS">
+        <test-method signature="campaignstatus()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:42 IST" name="campaignstatus" finished-at="2025-07-28T08:45:49 IST" duration-ms="7143" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[====campaignstatus PASSED ====]]>
             </line>
           </reporter-output>
         </test-method> <!-- campaignstatus -->
-        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T07:10:07 IST" name="aftermethod" finished-at="2025-07-28T07:10:08 IST" duration-ms="1030" status="PASS">
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:50 IST" name="aftermethod" finished-at="2025-07-28T08:45:50 IST" duration-ms="783" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="afterclass()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T07:10:08 IST" name="afterclass" finished-at="2025-07-28T07:10:08 IST" duration-ms="565" status="PASS">
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:50 IST" name="afterclass" finished-at="2025-07-28T08:45:51 IST" duration-ms="556" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterclass -->
-        <test-method is-config="true" signature="aftertest()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T07:10:08 IST" name="aftertest" finished-at="2025-07-28T07:10:08 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:51 IST" name="aftertest" finished-at="2025-07-28T08:45:51 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftertest -->
-        <test-method is-config="true" signature="aftersuite()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T07:10:08 IST" name="aftersuite" finished-at="2025-07-28T07:10:08 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:testcases.AssertcamstatusbaseTest@4009e306]" started-at="2025-07-28T08:45:51 IST" name="aftersuite" finished-at="2025-07-28T08:45:51 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftersuite -->
